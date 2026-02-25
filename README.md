@@ -5,7 +5,7 @@ CS undergrad | 5G Researcher | Cybersecurity Enthusiast | Agentic AI Developer
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Designing+Fault-Tolerant+Systems;Break+→+Analyze+→+Rebuild;AI-Driven+5G+Recovery;Blockchain-Backed+Infrastructure;LLM-Orchestrated+Workflows;Low-Latency+Data+Replication;Autonomous+Decision+Loops;Engineering+Resilience;Production-Ready+Systems;Hardware-Integrated+Control;⛏️+Always+in+my+minecraft+phase+⛏️" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Designing+Fault-Tolerant+Systems;Break+→+Analyze+→+Rebuild;AI-Driven+5G+Recovery;Blockchain-Backed+Infrastructure;LLM-Orchestrated+Workflows;Low-Latency+Data+Replication;Autonomous+Decision+Loops;Engineering+Resilience;Production-Ready+Systems;Hardware-Integrated+Control;⛏️+Always+in+my+minecraft+phase+⛏️" />
 </p>
 
 ---
