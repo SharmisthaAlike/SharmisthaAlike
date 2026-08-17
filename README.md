@@ -75,6 +75,7 @@ CS undergrad | 5G Researcher | Cybersecurity Enthusiast | Agentic AI Developer
 
 ## 👩🏻‍💻 Beyond Code
 ```bash
+> TME Intern - Menlo Security
 > Executive Director - PESU I/O  
 > Teaching Assistant - DDCO, CN @PES University, CSE Dept.  
 > Research Intern - 5G Lab, C-ISFCR   
@@ -83,17 +84,6 @@ CS undergrad | 5G Researcher | Cybersecurity Enthusiast | Agentic AI Developer
 > Top 5 - Terrathon 2.0 2024
 ```
 
----
-
-## ⚡ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SharmisthaAlike&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SharmisthaAlike&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
-</p>
 
 ---
 
